@@ -1,0 +1,15 @@
+D:\App\cleanArchitectureApp\MyApp.Application\bin\Debug\net8.0\MyApp.Application.deps.json
+D:\App\cleanArchitectureApp\MyApp.Application\bin\Debug\net8.0\MyApp.Application.dll
+D:\App\cleanArchitectureApp\MyApp.Application\bin\Debug\net8.0\MyApp.Application.pdb
+D:\App\cleanArchitectureApp\MyApp.Application\bin\Debug\net8.0\MyApp.Core.dll
+D:\App\cleanArchitectureApp\MyApp.Application\bin\Debug\net8.0\MyApp.Core.pdb
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.AssemblyReference.cache
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfoInputs.cache
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.AssemblyInfo.cs
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.csproj.CoreCompileInputs.cache
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Ap.B540CA8A.Up2Date
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.dll
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\refint\MyApp.Application.dll
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\MyApp.Application.pdb
+D:\App\cleanArchitectureApp\MyApp.Application\obj\Debug\net8.0\ref\MyApp.Application.dll

@@ -1,0 +1,13 @@
+
+using System.ComponentModel;
+
+namespace MyApp.Core.Entities
+{
+    public class EmployeeEntity
+    {
+       public Guid Id { get; set; } 
+       public string Name { get; set; }
+       public string Email { get; set; }
+       public string Phone{ get; set; }
+    }
+}
